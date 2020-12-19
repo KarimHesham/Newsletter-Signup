@@ -13,3 +13,6 @@ To test the application follow these instructions:
 4- Run 'npm i' command inside the terminal
 
 5- Run 'npm start' command inside your terminal
+
+
+Or Try the deployed app on Heroku : https://stormy-beyond-88257.herokuapp.com/ 
